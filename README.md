@@ -1,2 +1,2 @@
 # mohamed-s-AI
-highly trained LLM using my data to create an AI model that simulates my personality presented in a react.js made page
+fine-tuned LLM (qwen 2.5 3b parameters)  using my data to create an AI model that mimics my personality 
