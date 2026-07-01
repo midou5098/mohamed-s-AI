@@ -112,6 +112,5 @@ No evaluation metric or best checkpoint is recorded in the trainer state, so the
 3. Add license information for both this adapter and the base model dependency.
 4. Consider publishing the adapter to Hugging Face if the goal is easy reuse with `from_pretrained`.
 
-## Repository
-
-GitHub: <https://github.com/midou5098/mohamed-s-AI>
+## why i built this 
+somewhy felt i wanted to test how it felt to talk to myslf , so this repo exists merly bcz of human connection
